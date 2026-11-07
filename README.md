@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Saeed 👋
 
-<!--
-**saeed-codes676/saeed-codes676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a Computer Systems Engineering student passionate about programming, technology, and learning new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing a Bachelor's degree in Computer Systems Engineering.
+- 💻 Learning C++ and HTML.
+- 🤖 Interested in learning Machine Learning (ML) and Data Science.
+- 🧠 Interested in Artificial Intelligence and new technologies.
+- 🌱 Continuously improving my programming and problem-solving skills.
+- 🛠️ Working on programming projects to gain practical experience.
+- 🤝 Interested in collaborating on interesting projects.
+
+## 🛠️ Tech Stack
+
+- Programming Languages: C++
+- Web Technologies: HTML
+- Currently Learning: Machine Learning and Data Science
+
+## 📂 My Projects
+
+- 📚 C++ Library Management System
+
+## 🎯 My Goal
+
+To become a skilled Data Scientist and explore the fields of Artificial Intelligence, Machine Learning, and Data Science.
+
+Thanks for visiting my profile! 😊
